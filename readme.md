@@ -4,7 +4,7 @@
 Through this application, you can customize text inputs and switch up the background and text colors! Want to go back to the original? Just click on the screen to reset.
 
 ### App Walk-though
-<img src="http://g.recordit.co/5e0abP95oC.gif" width=200><br>
+<img src="http://g.recordit.co/2X19QYSAkW.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
